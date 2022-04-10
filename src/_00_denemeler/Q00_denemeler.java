@@ -8,7 +8,7 @@ public class Q00_denemeler {
 
    */
 
-
+        System.out.println();
     }
 }
 
