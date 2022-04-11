@@ -1,4 +1,4 @@
-package P04_okulYönetimi.ogrcOgrtYonetimi;
+package JavaProjects.P04_okulYönetimi.ogrcOgrtYonetimi;
 
 import java.util.ArrayList;
 import java.util.List;

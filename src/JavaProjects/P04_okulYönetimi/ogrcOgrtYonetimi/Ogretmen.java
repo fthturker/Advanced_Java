@@ -1,4 +1,4 @@
-package P04_okulYönetimi.ogrcOgrtYonetimi;
+package JavaProjects.P04_okulYönetimi.ogrcOgrtYonetimi;
 
 
     public class Ogretmen extends Kisi {
