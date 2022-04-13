@@ -1,5 +1,7 @@
 package _09_Arrays;
 
+import java.util.ArrayList;
+
 public class Q17 {
   /* TASK :
   Elinizde bir miktar farklı boylarda somun ve bu somunlara uyacak civatalar olsun.
@@ -9,10 +11,10 @@ public class Q17 {
 
     public static void main(String[] args) {
         int[] arrSomun = {1, 3, 6, 5, 2};
-        int[] arrCivata = {1, 2, 3, 6, 5};
+        int[] arrCivata = {6, 3, 2, 1, 5};
 
         arrSomun = dizinYap(arrSomun);
-        arrCivata = dizinYap(arrCivata);
+        arrCivata=dizinYap(arrCivata);
         for (int i = 0; i < arrCivata.length; i++) {
             System.out.println("arrCivata : " + arrCivata[i] + " = arrSomun :" + arrSomun[i]);
         }
