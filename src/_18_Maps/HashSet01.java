@@ -1,4 +1,4 @@
-package _17_Set;
+package _18_Maps;
 
 import java.util.Arrays;
 import java.util.HashSet;
